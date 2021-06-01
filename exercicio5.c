@@ -4,8 +4,7 @@
 #include <stdio.h>
 #include <math.h>
 
-float main()
-{
+int main() {
 
 float capital, juros, meses, cal1, cal2;
 int cal3;
@@ -26,8 +25,6 @@ cal3= cal2*capital;
 	printf("Montante é =%i\n",cal3);
 
 
-	
-
-
+    return 0;
 
 }
