@@ -16,6 +16,8 @@ novo=soma-desconto;
 preju=atraso-novo;
 	printf("Valor que o devendo vai pagar= %i\n",novo);
 	printf("prejuizo do maluco= %i\n",preju);
+	 
+    return 0;
 	
 
 }
