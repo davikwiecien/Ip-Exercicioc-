@@ -7,7 +7,7 @@ que ele deseja saber o número de bactérias.*/
 #include <stdio.h>
 #include <math.h>
 
-float main()
+int main()
 {
 	float mat1, mat2, diassaber, mat3;
 	//int mat3;
@@ -24,6 +24,6 @@ mat3=pow(2,mat2);
 
 
 
+    return 0;
 
-
-	}
+}
