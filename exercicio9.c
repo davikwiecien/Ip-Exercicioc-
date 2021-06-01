@@ -1,6 +1,5 @@
 /*A disciplina “Complexidade de algoritmos” realiza 5 avaliações por semestre.
-Desenvolva algoritmo que determine o desvio padrão das avaliações de um
-determinado aluno.*/
+Desenvolva algoritmo que determine o desvio padrão das avaliações de um determinado aluno.*/
 
 int main (void) {
   
@@ -29,4 +28,5 @@ int main (void) {
     printf("\nDesvio padrão das avaliações: %f\n", dp);
   
     return 0;
+  
 }
